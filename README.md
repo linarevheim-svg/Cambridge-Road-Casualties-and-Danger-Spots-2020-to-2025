@@ -6,9 +6,7 @@ Analysis of road casualties across Cambridgeshire (2020–2024), with a focus on
 
 ## Project summary
 
-Cambridge is one of the most cycling-intensive cities in the UK, with over 30% of commuters travelling by bike. Yet road casualties — particularly among cyclists — remain a significant concern. This project uses the UK government's official STATS19 collision database to map where casualties are occurring, identify high-risk locations, and examine whether casualty rates are improving over time.
-
-The analysis is intended to produce insights relevant to Cambridgeshire County Council, Cambridge City Council, and transport planning teams working on active travel and road safety policy.
+This project uses the UK government's official STATS19 collision database to map where Cambridge casualties are occurring, identify high-risk locations, and examine whether casualty rates are improving over time. Cambridge is one of the most cycling-intensive cities in the UK, with over 30% of commuters travelling by bike. The analysis is intended to produce insights relevant to Cambridgeshire County Council, Cambridge City Council, and transport planning teams working on active travel and road safety policy.
 
 ---
 
@@ -16,10 +14,7 @@ The analysis is intended to produce insights relevant to Cambridgeshire County C
 
 - Where are the highest concentrations of road casualties in Cambridgeshire?
 - How has the total number of casualties changed year on year since 2020?
-- Are cyclist casualties increasing or decreasing?
-- Which road types, junctions, and times of day are most dangerous?
 - Are serious and fatal casualties declining faster than slight injuries?
-
 ---
 
 ## Tools used
@@ -58,7 +53,10 @@ All data is published by the UK Department for Transport under the [Open Governm
 
 ## Key findings
 
-*(To be completed after analysis)*
+Cambridge Road Casualties & Hotspots (2020–2024)
+Executive Summary
+
+Road casualties in Cambridge peaked in 2022 and remain concentrated in North Cambridge, particularly Arbury and Chesterton, with pedestrians and car occupants accounting for the majority of incidents.
 
 ---
 
@@ -80,7 +78,7 @@ All data is published by the UK Department for Transport under the [Open Governm
 
 ## Dashboard
 
-[View on Tableau Public](#) ← replace with your link once published
+[[View on Tableau Public](#) (https://public.tableau.com/authoring/CambridgeRoadCasualties2020to2024/CambridgesRoadCasualties/Cambridge%20Road%20Casualties%20%26%20Hotspots%20(2020%E2%80%932024)#1)
 
 ---
 
